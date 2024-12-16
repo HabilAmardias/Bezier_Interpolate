@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: bezier_interpolate
+Version: 0.0.1
+Summary: A small package to fill NaN values using Bezier Interpolation
+Author-email: Habil <habilamar@gmail.com>
+Project-URL: Homepage, https://github.com/HabilAmardias/Bezier_Interpolate
+Project-URL: Issues, https://github.com/HabilAmardias/Bezier_Interpolate/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.12
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: numpy==2.2.0
+Requires-Dist: pandas==2.2.3
+Requires-Dist: python-dateutil==2.9.0.post0
+Requires-Dist: pytz==2024.2
+Requires-Dist: six==1.17.0
+Requires-Dist: tzdata==2024.2
+
+A small package to fill NaN values using Bezier Interpolation

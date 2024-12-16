@@ -1,0 +1,10 @@
+LICENSE
+README.MD
+pyproject.toml
+src/BezierInterpolate/interpolate.py
+src/BezierInterpolate/utils.py
+src/bezier_interpolate.egg-info/PKG-INFO
+src/bezier_interpolate.egg-info/SOURCES.txt
+src/bezier_interpolate.egg-info/dependency_links.txt
+src/bezier_interpolate.egg-info/requires.txt
+src/bezier_interpolate.egg-info/top_level.txt
